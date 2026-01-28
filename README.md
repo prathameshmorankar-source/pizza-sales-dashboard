@@ -18,3 +18,4 @@ Developed an interactive Power BI dashboard to analyze pizza sales performance u
 
 how my dashboard looksz like
 link: 
+https://github.com/prathameshmorankar-source/pizza-sales-dashboard/blob/main/pizza%20sales%20dashboars%20ss.png
